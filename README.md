@@ -6,12 +6,12 @@ Este es un sistema de bienes raíces desarrollado en Node.js utilizando el frame
 
 La aplicación ofrece las siguientes funcionalidades:
 
-- **Registro y autenticación de usuarios.
-- **Listado de propiedades disponibles.
-- **Búsqueda de propiedades por título.
-- **Creación, edición y eliminación de propiedades (solo para usuarios autenticados).
-- **Envío de mensajes relacionados con las propiedades (solo para usuarios autenticados).
-- **Visualización de mensajes relacionados con una propiedad (solo para usuarios autenticados).
+- Registro y autenticación de usuarios.
+- Listado de propiedades disponibles.
+- Búsqueda de propiedades por título.
+- Creación, edición y eliminación de propiedades (solo para usuarios autenticados).
+- Envío de mensajes relacionados con las propiedades (solo para usuarios autenticados).
+- Visualización de mensajes relacionados con una propiedad (solo para usuarios autenticados).
 
 ## Requisitos
 
