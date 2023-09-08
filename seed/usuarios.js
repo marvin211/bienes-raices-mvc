@@ -2,8 +2,8 @@ import bcrypt from 'bcrypt'
 
 const usuarios = [
     {
-        nombre: 'Juan',
-        email: 'juan@juan.com',
+        nombre: 'marvin',
+        email: 'marvin@marvin.com',
         confirmado: 1,
         password: bcrypt.hashSync('password', 10)
     }
